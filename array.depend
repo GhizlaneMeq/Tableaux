@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695132654 source:c:\users\youcode\desktop\array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1695043013 source:c:\users\youcode\desktop\array\challenge1.c
+	<stdlib.h>
+
+1695046927 source:c:\users\youcode\desktop\array\challenge2.c
+	<stdlib.h>
+
